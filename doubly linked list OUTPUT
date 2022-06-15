@@ -1,0 +1,133 @@
+photon@node11:~$ ./doublyll.out
+
+1. Insert at the beginning
+2. Insert to end
+3. Delete the head
+4. Delete in between
+5. Delete tail
+6. Display forward
+7. Display reverse
+8. Exit
+Enter your choice: 1
+Enter data: 34
+
+1. Insert at the beginning
+2. Insert to end
+3. Delete the head
+4. Delete in between
+5. Delete tail
+6. Display forward
+7. Display reverse
+8. Exit
+Enter your choice: 1
+Enter data: 67
+
+1. Insert at the beginning
+2. Insert to end
+3. Delete the head
+4. Delete in between
+5. Delete tail
+6. Display forward
+7. Display reverse
+8. Exit
+Enter your choice: 1
+Enter data: 89
+
+1. Insert at the beginning
+2. Insert to end
+3. Delete the head
+4. Delete in between
+5. Delete tail
+6. Display forward
+7. Display reverse
+8. Exit
+Enter your choice: 2
+Enter data: 98
+
+1. Insert at the beginning
+2. Insert to end
+3. Delete the head
+4. Delete in between
+5. Delete tail
+6. Display forward
+7. Display reverse
+8. Exit
+Enter your choice: 3
+
+1. Insert at the beginning
+2. Insert to end
+3. Delete the head
+4. Delete in between
+5. Delete tail
+6. Display forward
+7. Display reverse
+8. Exit
+Enter your choice: 6
+
+Elements are: 67 34 98 
+
+1. Insert at the beginning
+2. Insert to end
+3. Delete the head
+4. Delete in between
+5. Delete tail
+6. Display forward
+7. Display reverse
+8. Exit
+Enter your choice: 7
+
+Elements are: 98 34 67 
+
+1. Insert at the beginning
+2. Insert to end
+3. Delete the head
+4. Delete in between
+5. Delete tail
+6. Display forward
+7. Display reverse
+8. Exit
+Enter your choice: 5
+
+1. Insert at the beginning
+2. Insert to end
+3. Delete the head
+4. Delete in between
+5. Delete tail
+6. Display forward
+7. Display reverse
+8. Exit
+Enter your choice: 6
+
+Elements are: 67 34 
+
+1. Insert at the beginning
+2. Insert to end
+3. Delete the head
+4. Delete in between
+5. Delete tail
+6. Display forward
+7. Display reverse
+8. Exit
+Enter your choice: 3
+
+1. Insert at the beginning
+2. Insert to end
+3. Delete the head
+4. Delete in between
+5. Delete tail
+6. Display forward
+7. Display reverse
+8. Exit
+Enter your choice: 6
+
+Elements are: 34 
+
+1. Insert at the beginning
+2. Insert to end
+3. Delete the head
+4. Delete in between
+5. Delete tail
+6. Display forward
+7. Display reverse
+8. Exit
+Enter your choice: 
